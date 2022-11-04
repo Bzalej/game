@@ -4,6 +4,7 @@ public class Main {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         System.out.println("Witam Cię wojowniku! Rozpocznij TERAZ swoją przygodę. Stwórz bohatera na miarę swojej zajebistości!!!");
+
         System.out.println("Wybierz imię swojego bohatera");
         String name= sc.nextLine();
         System.out.println("Wybierz klasę swojego bohatera");
